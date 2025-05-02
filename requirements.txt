@@ -1,0 +1,11 @@
+# Basic libraries for data manipulation and machine learning
+numpy==1.23.1
+pandas==1.4.3
+scikit-learn==1.0.2
+
+# Natural Language Processing libraries
+nltk==3.7
+textblob==0.15.3
+
+# Optional: For model persistence
+joblib==1.1.0
