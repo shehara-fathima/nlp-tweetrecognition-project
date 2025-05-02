@@ -1,0 +1,1 @@
+The model is trained on labeled tweet data and includes steps like text cleaning, tokenization, vectorization (e.g., TF-IDF or embeddings), and classification using algorithms such as logistic regression, SVM, or neural networks. Useful for emergency response filtering, social media monitoring, or NLP experimentation.
